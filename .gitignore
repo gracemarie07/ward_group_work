@@ -1,5 +1,18 @@
-*.fits
+__pycache__/
+*.py[cod]
+
+.conda/
 .venv/
-__pycache__/
-__pycache__/
+pyqsofit_env/
 .ipynb_checkpoints/
+
+dustmaps_data/
+forced_photometry_requests/
+formirandaandmaddy/
+FPofpossibleCLAGN/
+PyQSOFit/
+pyqsofit_runs/
+SEM1 WORK/
+Unused/
+
+.DS_Store
